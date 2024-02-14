@@ -1,0 +1,46 @@
+table,td,th{
+    border: 2px solid rgb(16, 14, 14);
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(68, 44, 204);
+    color: white;
+}
+th,td{
+    height: auto;
+    width: 220px;
+    font-weight: 1000;
+    font-size: 28px;
+}
+.Work{
+    text-align: center;
+    font-style: italic;
+    padding: 10px 10px 10px 10px;
+   
+}
+.Day1{
+    padding: 10px 10px 10px 10px;
+    
+    text-align: center;
+}
+#cld{
+    color: red;
+}
+#table2{
+    
+    
+    position: absolute;
+    top: 1540px;
+    left: 800px;
+    background-color: rgb(56, 56, 128);
+}
+.head{
+    text-align: center;
+}
+#t1,th,td{
+    width: 380px;
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(16, 14, 14);
+}
+
